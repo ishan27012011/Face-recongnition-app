@@ -1,0 +1,42 @@
+.heading{
+    width: 80%;
+    height: 50px;
+    font-size: 60px;
+    font-weight: bolder;
+    color: rgb(27, 5, 224);
+    }
+    body{
+    background-color: khaki;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    #people{
+    color: rgb(10, 168, 31);
+    font-size: 25px;
+    font-weight: bolder;
+
+    }
+    #camera{
+    width: 500px;
+    height: 275px;
+    border:5px solid blue;
+    border-radius: 10px; 
+    }
+    #result{
+        width: 500px;
+        height: 275px;
+        border:5px solid blue;
+        border-radius: 10px; 
+        }
+    #capture_button{
+    font-weight: bolder;
+    width: 500;
+    height: 65;
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    border-radius: 15px;
+    border-width: 7;
+    border-color: rgb(22, 70, 3);
+    
+    }
+ 
